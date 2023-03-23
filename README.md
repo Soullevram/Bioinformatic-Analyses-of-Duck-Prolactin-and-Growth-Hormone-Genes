@@ -125,71 +125,76 @@ The nucleotide composition of each trimmed sequence for both genes was determine
 
 ##  Table 1.1. Downloaded nucleotide sequences of the avian species of interest, alongside their accession numbers and sequence lengths
 <table>
-  <thead>
-    <tr>
-      <th>Gene</th>
-      <th>Species</th>
-      <th>GenBank-Accession-Number</th>
-      <th>Sequence-Length-(bp)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>PRL</td>
-      <td>Linwu duck (Anas platyrhynchos)</td>
-      <td>JQ677091.2</td>
-      <td>6288</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>Domestic goose (Anser anser)</td>
-      <td>GU984377.1</td>
-      <td>6846</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>Chicken (Gallus gallus)</td>
-      <td>AF288765</td>
-      <td>9536</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>Indian peafowl (Pavo cristatus)</td>
-      <td>AB605393</td>
-      <td>6331</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>Turkey (Meleagris gallopavo)</td>
-      <td>AB605394</td>
-      <td>6250</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>Ring-necked pheasant (Phasianus colchicus)</td>
-      <td>AB605395</td>
-      <td>6255</td>
-    </tr>
-    <tr>
-      <td>GH</td>
-      <td>Duck (Anas platyrhynchos)1</td>
-      <td>LS423616.1</td>
-      <td>36432395</td>
-    </tr>
-    <tr>
-	  
+  <tr>
+    <th>Gene</th>
+    <th>Species</th>
+    <th>GenBank-Accession-Number</th>
+    <th>Sequence-Length-(bp)</th>
+  </tr>
+  <tr>
+    <td>PRL</td>
+    <td>Linwu duck (Anas platyrhynchos)</td>
+    <td>JQ677091.2</td>
+    <td>6288</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Domestic goose (Anser anser)</td>
+    <td>GU984377.1</td>
+    <td>6846</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Chicken (Gallus gallus)</td>
+    <td>AF288765</td>
+    <td>9536</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Indian peafowl (Pavo cristatus)</td>
+    <td>AB605393</td>
+    <td>6331</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Turkey (Meleagris gallopavo)</td>
+    <td>AB605394</td>
+    <td>6250</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Ring-necked pheasant (Phasianus colchicus)</td>
+    <td>AB605395</td>
+    <td>6255</td>
+  </tr>
+</table> 
+<table>
+  <tr>
+    <th>GH</th>
+    <th>Species</th>
+    <th>GenBank-Accession-Number</th>
+    <th>Sequence-Length-(bp)</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Duck (Anas platyrhynchos)</td>
+    <td>LS423616.1</td>
+    <td>36432395</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Turkey (Meleagris gallopavo)</td>
+    <td>OW982299.1</td>
+    <td>35155600</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Chicken (Gallus gallus)</td>
+    <td>CP100560.1</td>
+    <td>36158469</td>
+  </tr>
+</table>
 
-
-Gene	Species	GenBank Accession Number	Sequence Length (bp)
-PRL	Linwu duck (Anas platyrhynchos)	JQ677091.2	6288
-	Domestic goose (Anser anser)	GU984377.1	6846
-	Chicken (Gallus gallus)	AF288765	9536
-	Indian peafowl (Pavo cristatus)	AB605393	6331
-	Turkey (Meleagris gallopavo)	AB605394	6250
-	Ring-necked pheasant (Phasianus colchicus)	AB605395	6255
-GH	Duck (Anas platyrhynchos)1	LS423616.1	36432395
-	Turkey (Meleagris gallopavo)2	OW982299.1	35155600
-	Chicken (Gallus gallus)3	CP100560.1	36158469
 
 3: Chromosome 6 genome assembly; 2: Chromosome 8 genome assembly; 1: Chromosome 6 genome assembly
 
