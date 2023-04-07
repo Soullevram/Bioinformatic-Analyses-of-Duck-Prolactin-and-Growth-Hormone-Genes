@@ -234,8 +234,8 @@ Wallis M. (2001). Episodic evolution of protein hormones in mammals. J. Mol. Evo
 
 # List of Authors
 <li> Marvellous O. Oyebanjo (<a href="mailto:ooyebanjo488@stu.ui.edu.ng">ooyebanjo488@stu.ui.edu.ng</a></span>)
-<li> Cosamede H. Osaiyuwu (<a href="mailto:oh.osaiyuwu@mail.ui.edu.ng">oh.osaiyuwu@mail.ui.edu.ng</a></span>)
-<li> Adebowale E. Salako (<a href="mailto:ae.salako@mail.ui.edu.ng">oh.osaiyuwu@mail.ui.edu.ng</a></span>)
+<li> Cosamede H. Osaiyuwu
+<li> Adebowale E. Salako 
 
 # Publication
 Coming soon. 
