@@ -232,5 +232,16 @@ Kessler, M. A., Milosavljevic, M., Zieler, C. G., and Schuler L. A. (1989). A su
 
 Wallis M. (2001). Episodic evolution of protein hormones in mammals. J. Mol. Evol. 53:10-1.
 
+# List of Authors
+<li> Marvellous O. Oyebanjo (<a href="mailto:ooyebanjo488@stu.ui.edu.ng">ooyebanjo488@stu.ui.edu.ng</a></span>)
+<li> Cosamede H. Osaiyuwu (<a href="mailto:oh.osaiyuwu@mail.ui.edu.ng">oh.osaiyuwu@mail.ui.edu.ng</a></span>)
+<li> Adebowale E. Salako (<a href="mailto:ae.salako@mail.ui.edu.ng">oh.osaiyuwu@mail.ui.edu.ng</a></span>)
+
+# Publication
+Coming soon. 
+
+
 ## Note
 <p>This study was designed by and performed by <em>Marvellous Oyebanjo</em> under the supervision of <strong>Professor A. E. Salako</strong> and <strong>Dr. O. H. Osaiyuwu</strong> at the <em>Animal Breeding and Genetics Unit</em>, Department of Animal Science, University of Ibadan.</p>
+
+
