@@ -70,9 +70,9 @@ Genomic DNA was extracted using the JENA Bioscience Blood DNA Preparation Column
 </ul>
 
 # 1.4	Primers
-Using the Anas platyrhynchos complete coding sequence PRL gene (GenBank accession number: <a href="https://www.ncbi.nlm.nih.gov/nuccore/JQ677091.2/">JQ677091.2</a> and the National Center for Biotechnology Information (NCBI) Primer-BLAST, a pair of primer was designed to amplify intron 4 and exon 5 of dPRL gene. For GH gene, the primer was designed based on GH gene sequence published on GenBank (<a href="https://www.ncbi.nlm.nih.gov/nuccore/AB158760/">AB158760</a>) to amplify exon 1 of dGH gene. The primers sequences, amplification region, annealing temperature and expected polymerase chain reaction (PCR) product is shown in Table 1.0.
+Using the Anas platyrhynchos complete coding sequence <i>PRL</i> gene (GenBank accession number: <a href="https://www.ncbi.nlm.nih.gov/nuccore/JQ677091.2/">JQ677091.2</a> and the National Center for Biotechnology Information (NCBI) Primer-BLAST, a pair of primer was designed to amplify intron 4 and exon 5 of <i>dPRL</i> gene. For <i>GH</i> gene, the primer was designed based on <i>GH</i> gene sequence published on GenBank (<a href="https://www.ncbi.nlm.nih.gov/nuccore/AB158760/">AB158760</a>) to amplify exon 1 of <i>dGH</i> gene. The primers sequences, amplification region, annealing temperature and expected polymerase chain reaction (PCR) product is shown in Table 1.0.
 
-## Table 1.0. Primer sequences used to amplify regions of PRL (exon 5) and GH (exon 1) genes
+## Table 1.0. Primer sequences used to amplify regions of <i>PRL</i> (exon 5) and <i>GH</i> (exon 1) genes
 <table>
   <tr>
     <th>Gene</th>
@@ -82,14 +82,14 @@ Using the Anas platyrhynchos complete coding sequence PRL gene (GenBank accessio
     <th>AT</th>
   </tr>
   <tr>
-    <td>PRL</td>
+	  <td><i>PRL</i></td>
     <td>F TGCAAACCATAAAAGAAAAGA<br>R CAATGAAAAGTGGCAAAGCAA</td>
     <td>5663 - 6042</td>
     <td>400 bp</td>
     <td>54°C</td>
   </tr>
   <tr>
-    <td>GH</td>
+    <td><i>GH</i></td>
     <td>F CTGGAGCAGGCAGGAAAATT<br>R CCAGGGACAGTGAAC</td>
     <td>546-1240</td>
     <td>700 bp</td>
@@ -102,10 +102,10 @@ AR: Amplification region
 nt: Nucleotides
  
 # 1.5 Polymerase Chain Reaction (PCR)
-##  1.5.1	PRL Gene
+##  1.5.1	<i>PRL</i> Gene
 DNA amplification was performed using Jena Bioscience Ruby Hot Start Mastermix (2x). Each PCR reaction mixture comprised of 25 μl of mastermix (2x), 2 μl (10 pmol) of each PRL primers, 2 μl of DNA extract, and 19 μl sterile nuclease-free water, totaling into a reaction volume of 50 μl. PCR was done using an Applied Biosystem 2720 Thermocycler. The PCR protocols were as follow: initial denaturation at 94 °C for 5 min; denaturation involving 35 cycles at 94 °C for 60 sec; annealing for 30 sec at 54 °C; extension for 2 mins at 72 °C; and final extension for 7 min at 72°C.
 
-##  1.5.2	GH Gene
+##  1.5.2	<i>GH</i> Gene
 The Jena Bioscience Ruby Hot Start Mastermix (2x) was also used for DNA amplification. The PCR reaction mixture consisted of 25 μl of mastermix (2x), 1.5 μl (10 pmol) of both GH primers, 2 μl of DNA extract, and 37 μl of sterile nuclease-free water, which totaled into 50 μl reaction volume.  Amplification was performed using an Applied Biosystem 2720 Thermocycler. The PCR protocols followed were: initial denaturation for 5 min at 94 °C; denaturation for 45 sec at 94 °C; annealing for 45 sec at 52 °C; extension for 60 sec at 72 °C; and a final extension for 5 min at 72 °C.
 
 # 1.6	Visualisation of PCR Products
@@ -132,7 +132,7 @@ The nucleotide composition of each trimmed sequence for both genes was determine
     <th>Sequence-Length-(bp)</th>
   </tr>
   <tr>
-    <td>PRL</td>
+    <td><i>PRL</i></td>
     <td>Linwu duck (Anas platyrhynchos)</td>
     <td>JQ677091.2</td>
     <td>6288</td>
@@ -168,7 +168,7 @@ The nucleotide composition of each trimmed sequence for both genes was determine
     <td>6255</td>
   </tr>
   <tr>
-    <td>GH</td>
+    <td><i>GH</i></td>
     <td>Duck (Anas platyrhynchos)</td>
     <td>LS423616.1</td>
     <td>36432395</td>
