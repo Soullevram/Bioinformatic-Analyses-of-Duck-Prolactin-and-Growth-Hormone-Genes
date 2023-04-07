@@ -103,10 +103,10 @@ nt: Nucleotides
  
 # 1.5 Polymerase Chain Reaction (PCR)
 ##  1.5.1	<i>PRL</i> Gene
-DNA amplification was performed using Jena Bioscience Ruby Hot Start Mastermix (2x). Each PCR reaction mixture comprised of 25 μl of mastermix (2x), 2 μl (10 pmol) of each PRL primers, 2 μl of DNA extract, and 19 μl sterile nuclease-free water, totaling into a reaction volume of 50 μl. PCR was done using an Applied Biosystem 2720 Thermocycler. The PCR protocols were as follow: initial denaturation at 94 °C for 5 min; denaturation involving 35 cycles at 94 °C for 60 sec; annealing for 30 sec at 54 °C; extension for 2 mins at 72 °C; and final extension for 7 min at 72°C.
+DNA amplification was performed using Jena Bioscience Ruby Hot Start Mastermix (2x). Each PCR reaction mixture comprised of 25 μl of mastermix (2x), 2 μl (10 pmol) of each PRL primers, 2 μl of DNA extract, and 19 μl sterile nuclease-free water, totaling into a reaction volume of 50 μl. PCR was done using an Applied Biosystem 2720 Thermocycler. The PCR protocols were as follow: initial denaturation at 94°C for 5 min; denaturation involving 35 cycles at 94°C for 60 sec; annealing for 30 sec at 54°C; extension for 2 mins at 72 °C; and final extension for 7 min at 72°C.
 
 ##  1.5.2	<i>GH</i> Gene
-The Jena Bioscience Ruby Hot Start Mastermix (2x) was also used for DNA amplification. The PCR reaction mixture consisted of 25 μl of mastermix (2x), 1.5 μl (10 pmol) of both GH primers, 2 μl of DNA extract, and 37 μl of sterile nuclease-free water, which totaled into 50 μl reaction volume.  Amplification was performed using an Applied Biosystem 2720 Thermocycler. The PCR protocols followed were: initial denaturation for 5 min at 94 °C; denaturation for 45 sec at 94 °C; annealing for 45 sec at 52 °C; extension for 60 sec at 72 °C; and a final extension for 5 min at 72 °C.
+The Jena Bioscience Ruby Hot Start Mastermix (2x) was also used for DNA amplification. The PCR reaction mixture consisted of 25 μl of mastermix (2x), 1.5 μl (10 pmol) of both GH primers, 2 μl of DNA extract, and 37 μl of sterile nuclease-free water, which totaled into 50 μl reaction volume.  Amplification was performed using an Applied Biosystem 2720 Thermocycler. The PCR protocols followed were: initial denaturation for 5 min at 94 °C; denaturation for 45 sec at 94°C; annealing for 45 sec at 52°C; extension for 60 sec at 72°C; and a final extension for 5 min at 72°C.
 
 # 1.6	Visualisation of PCR Products
 The PCR products were visualized on a 2% agarose gel dissolved in 0.5x Tris-borate buffer, stained with maestrosafe, under Blue Light Transilluminator (New England BioGroup, USA). The gel was loaded with a midrange DNA ladder marker (1000 bp; Jena Bioscience, Germany) for comparison with the PCR products.
@@ -242,6 +242,6 @@ Coming soon.
 
 
 ## Note
-<p>This study was designed by and performed by <em>Marvellous Oyebanjo</em> under the supervision of <strong>Professor A. E. Salako</strong> and <strong>Dr. O. H. Osaiyuwu</strong> at the <em>Animal Breeding and Genetics Unit</em>, Department of Animal Science, University of Ibadan.</p>
+<p>This study was designed by and performed by <em>Marvellous Oyebanjo</em> under the supervision of <strong>Professor A. E. Salako</strong> and <strong>Dr. O. H. Osaiyuwu</strong> in the <em>Animal Breeding and Genetics Unit</em>, Department of Animal Science, University of Ibadan.</p>
 
 
