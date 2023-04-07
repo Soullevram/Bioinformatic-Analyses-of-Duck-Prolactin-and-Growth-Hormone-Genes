@@ -231,3 +231,6 @@ Connor, A. M., Waterhouse, P., Khokha, R., and Denhardt, D. T. (1989). Character
 Kessler, M. A., Milosavljevic, M., Zieler, C. G., and Schuler L. A. (1989). A subfamily of bovine prolactin-related transcripts distinct from placental lactogen in the fetal placenta. Biochemistry 28:5154-5161.
 
 Wallis M. (2001). Episodic evolution of protein hormones in mammals. J. Mol. Evol. 53:10-1.
+
+## Note
+<p>This study was designed by and performed by <em>Marvellous Oyebanjo</em> under the supervision of <strong>Professor A. E. Salako</strong> and <strong>Dr. O. H. Osaiyuwu</strong> at the <em>Animal Breeding and Genetics Unit</em>, Department of Animal Science, University of Ibadan.</p>
