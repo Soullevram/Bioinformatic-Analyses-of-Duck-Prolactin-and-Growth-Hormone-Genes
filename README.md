@@ -167,28 +167,20 @@ The nucleotide composition of each trimmed sequence for both genes was determine
     <td>AB605395</td>
     <td>6255</td>
   </tr>
-</table> 
-<table>
   <tr>
-    <th>GH</th>
-    <th>Species</th>
-    <th>GenBank-Accession-Number</th>
-    <th>Sequence-Length-(bp)</th>
-  </tr>
-  <tr>
-    <td>1</td>
+    <td>GH</td>
     <td>Duck (Anas platyrhynchos)</td>
     <td>LS423616.1</td>
     <td>36432395</td>
   </tr>
   <tr>
-    <td>2</td>
+    <td></td>
     <td>Turkey (Meleagris gallopavo)</td>
     <td>OW982299.1</td>
     <td>35155600</td>
   </tr>
   <tr>
-    <td>3</td>
+    <td></td>
     <td>Chicken (Gallus gallus)</td>
     <td>CP100560.1</td>
     <td>36158469</td>
