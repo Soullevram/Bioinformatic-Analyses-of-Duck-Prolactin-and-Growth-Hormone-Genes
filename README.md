@@ -1,4 +1,4 @@
-# Bioinformatic-Analyses-of-Duck-Prolactin-Gene-Exon-5
+# Bioinformatics and Molecular Analysis of The Exon 5 of Prolactin (<i>PRL</i>) and Exon 1 of Growth Hormone (<i>GH</i>) Genes in Locally Adapted Nigerian Muscovy and Mallard Ducks
 
 # MATERIALS AND METHODS
 # 1.1 Experimental Birds
